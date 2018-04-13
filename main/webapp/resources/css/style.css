@@ -1,0 +1,40 @@
+/*.description {*/
+    /*text-indent: 35px; !* Отступ первой строки в пикселах *!*/
+    /*!*перенос по ширине блока в символах*!*/
+    /*max-width:100em;*/
+    /*word-wrap:break-word;*/
+/*}*/
+
+/**********************/
+
+/*span.caret{*/
+    /*color: #f2f8ff;*/
+/*}*/
+
+
+#emailListModal, #nameListModal {
+    top: 1%;
+    left:15%;
+    outline: none;
+    overflow:hidden;
+}
+
+.c-size {
+    font-size: 115%;
+}
+
+/*table width*/
+div.container {
+    width: 99%;
+}
+
+/*hide default searhbox*/
+.dataTables_filter {
+    display: none;
+}
+
+.footer {
+    padding-bottom: 15px;
+    text-align: center;
+}
+
